@@ -1,0 +1,13 @@
+.btn-add{
+    background-color: #2020bd;
+    color: white;
+    float :right;
+    width: 80px;
+    height: 30px;
+    border: 1px solid blue;
+    border-radius: 5px ;
+}
+
+.btn-add:hover{
+    background-color: blue;
+}
